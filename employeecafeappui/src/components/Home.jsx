@@ -7,7 +7,7 @@ const HomePage = () => {
 
     return (
         <div  style={{ padding: '30px',  boxSizing: 'border-box', minHeight: '100vh' }}>
-            <h1>Welcome to the Employee Cafe App</h1>
+            <h1>Welcome to the Employees Cafe Website</h1>
             <Button variant="contained" color="primary" onClick={() => navigate('/cafes')}>
                 View Cafes
             </Button>
