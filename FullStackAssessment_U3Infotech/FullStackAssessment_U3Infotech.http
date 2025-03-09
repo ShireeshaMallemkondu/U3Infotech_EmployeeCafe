@@ -1,0 +1,6 @@
+@FullStackAssessment_U3Infotech_HostAddress = http://localhost:5181
+
+GET {{FullStackAssessment_U3Infotech_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
